@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247566630145",
+    "project_id": "pushnative-2acac",
+    "storage_bucket": "pushnative-2acac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247566630145:android:c05164f90fd704204faf00",
+        "android_client_info": {
+          "package_name": "com.pushwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247566630145-8g6tsornrhs8godt3blq8661lo7keh32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBWEwrsMdH_0k0C9DmfjVN5Z7Yf3kAUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247566630145-8g6tsornrhs8godt3blq8661lo7keh32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
